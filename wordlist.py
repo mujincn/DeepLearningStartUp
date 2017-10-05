@@ -39,3 +39,16 @@ def result_list(str_list,n):
 word_list = word_filter()
 doule_word = double_list(word_list)
 result_list(double_word,10)
+
+
+# 结果
+# 词组[的 人]  930 次
+# 词组[他 的]  503 次
+# 词组[自己 的]  480 次
+# 词组[上 的]  356 次
+# 词组[他们 的]  335 次
+# 词组[人 的]  293 次
+# 词组[的 时候]  261 次
+# 词组[就 会]  225 次
+# 词组[的 东西]  207 次
+# 词组[都 是]  206 次
